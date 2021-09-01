@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.acces a{
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    display: block;
+    padding-top: 20%;
+    font-size: 70px;
+    font-weight: 500;
+    color:black;
+    font-style: "Helvetica";
+}
+
+hr{
+    width:35%;
+    position: relative;
+    top: 80px;
+    left: 32%;
+    border: 2px solid;
+    color:#656565
+}
+span {
+    background:#da1741;
+    border:8px 4px solid;
+    padding: 2px 8px;
+    position: relative;
+    bottom: 2px;
+    right: 12px;
+    color:#fff;
+}
+.school{
+    margin-left: 32%;
+    padding: 6px;
+    font-size:30px;
+    font-weight: 2;
+    color:#656565;
+    font-style: "Helvetica";
+}
+ 
